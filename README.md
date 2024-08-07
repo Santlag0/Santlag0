@@ -1,3 +1,39 @@
+<h2 align="left">Sobre mim:</h2>
+
+###
+
+<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas (2/5)<br>- Estudando desenvolvimento web no momento</p>
+
+###
+
+<h2 align="left">Social:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BIQAeZxXmTl%2B5kCRRmQ19DQ%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
+
+###
+
 <h2 align="left">Status</h2>
 
 ###
